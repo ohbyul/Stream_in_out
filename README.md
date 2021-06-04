@@ -1,5 +1,4 @@
-# Stream_in_out
-
+# Stream_in_out [JAVA]
 
 1. create directory.
 2. create file
